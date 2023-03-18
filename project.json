@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.4.0",
-  "projectVersion": "1.0.0",
+  "projectVersion": "1.0.1",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -178,6 +178,12 @@
     {
       "filePath": "UploadData\\UploadSamplesToQueue.xaml",
       "uniqueId": "0e5a3ced-21c9-41b2-b212-2faebc43d154",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "UploadData\\UploadSampleInvoicesToQueue.xaml",
+      "uniqueId": "b7bc85c2-70b4-4b33-833b-1f83a1be4e84",
       "input": [],
       "output": []
     }
