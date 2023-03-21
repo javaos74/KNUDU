@@ -193,49 +193,49 @@
           <sbd:SimpleExtractor ApiKey="[in_Config(&quot;AzureFormApiKey&quot;)]" DisplayName="Charles Azure-Invoice Extractor" Endpoint="[in_Config(&quot;AzureInvoiceFormEndpoint&quot;)]" sap:VirtualizedContainerService.HintSize="338,25" sap2010:WorkflowViewState.IdRef="SimpleExtractor_2" PersistenceId="UI07595906c5df44d99800f58c7fad4232">
             <sbd:SimpleExtractor.DocumentBounds>
               <InArgument x:TypeArguments="p2:ResultsDocumentBounds">
-                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds">
+                <DelegateArgumentValue x:TypeArguments="p2:ResultsDocumentBounds" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_8">
                   <DelegateInArgument x:TypeArguments="p2:ResultsDocumentBounds" Name="DocumentBounds" />
                 </DelegateArgumentValue>
               </InArgument>
             </sbd:SimpleExtractor.DocumentBounds>
             <sbd:SimpleExtractor.DocumentObjectModel>
               <InArgument x:TypeArguments="p1:Document">
-                <DelegateArgumentValue x:TypeArguments="p1:Document">
+                <DelegateArgumentValue x:TypeArguments="p1:Document" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_10">
                   <DelegateInArgument x:TypeArguments="p1:Document" Name="DocumentObjectModel" />
                 </DelegateArgumentValue>
               </InArgument>
             </sbd:SimpleExtractor.DocumentObjectModel>
             <sbd:SimpleExtractor.DocumentPath>
               <InArgument x:TypeArguments="x:String">
-                <DelegateArgumentValue x:TypeArguments="x:String">
+                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_11">
                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentPath" />
                 </DelegateArgumentValue>
               </InArgument>
             </sbd:SimpleExtractor.DocumentPath>
             <sbd:SimpleExtractor.DocumentText>
               <InArgument x:TypeArguments="x:String">
-                <DelegateArgumentValue x:TypeArguments="x:String">
+                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_9">
                   <DelegateInArgument x:TypeArguments="x:String" Name="DocumentText" />
                 </DelegateArgumentValue>
               </InArgument>
             </sbd:SimpleExtractor.DocumentText>
             <sbd:SimpleExtractor.ExtractorDocumentType>
               <InArgument x:TypeArguments="p5:ExtractorDocumentType">
-                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType">
+                <DelegateArgumentValue x:TypeArguments="p5:ExtractorDocumentType" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_7">
                   <DelegateInArgument x:TypeArguments="p5:ExtractorDocumentType" Name="ExtractorDocumentType" />
                 </DelegateArgumentValue>
               </InArgument>
             </sbd:SimpleExtractor.ExtractorDocumentType>
             <sbd:SimpleExtractor.ExtractorResult>
               <OutArgument x:TypeArguments="p5:ExtractorResult">
-                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult">
+                <DelegateArgumentReference x:TypeArguments="p5:ExtractorResult" sap2010:WorkflowViewState.IdRef="DelegateArgumentReference`1_2">
                   <DelegateOutArgument x:TypeArguments="p5:ExtractorResult" Name="ExtractorResult" />
                 </DelegateArgumentReference>
               </OutArgument>
             </sbd:SimpleExtractor.ExtractorResult>
             <sbd:SimpleExtractor.PredictionId>
               <InArgument x:TypeArguments="x:String">
-                <DelegateArgumentValue x:TypeArguments="x:String">
+                <DelegateArgumentValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="DelegateArgumentValue`1_12">
                   <DelegateInArgument x:TypeArguments="x:String" Name="PredictionId" />
                 </DelegateArgumentValue>
               </InArgument>
