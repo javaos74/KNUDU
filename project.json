@@ -3,7 +3,7 @@
   "description": "Document Understanding Process with external integration ",
   "main": "Main-ActionCenter.xaml",
   "dependencies": {
-    "CustomDUActivities": "[1.0.77-dev.106]",
+    "CustomDUActivities": "[1.0.85-dev.166]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.18.0]",
     "UiPath.Excel.Activities": "[2.16.2]",
     "UiPath.IntelligentOCR.Activities": "[6.6.0]",
