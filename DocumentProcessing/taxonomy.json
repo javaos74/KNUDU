@@ -20,7 +20,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.VendorAddress",
@@ -30,7 +31,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.PhoneNr",
@@ -40,7 +42,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.ReceiptDate",
@@ -50,7 +53,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.ReceiptNumber",
@@ -60,7 +64,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.ExpenseType",
@@ -70,7 +75,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.TaxAmount",
@@ -80,7 +86,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.TotalValue",
@@ -90,7 +97,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.Currency",
@@ -100,7 +108,8 @@
           "DeriveFieldsFormat": "",
           "Components": [],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Receipt.Items",
@@ -117,7 +126,8 @@
               "DeriveFieldsFormat": "",
               "Components": [],
               "SetValues": [],
-              "Metadata": []
+              "Metadata": [],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Receipt.Items.Qty",
@@ -127,7 +137,8 @@
               "DeriveFieldsFormat": "",
               "Components": [],
               "SetValues": [],
-              "Metadata": []
+              "Metadata": [],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Receipt.Items.UnitPrice",
@@ -137,7 +148,8 @@
               "DeriveFieldsFormat": "",
               "Components": [],
               "SetValues": [],
-              "Metadata": []
+              "Metadata": [],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Receipt.Items.Amount",
@@ -147,11 +159,13 @@
               "DeriveFieldsFormat": "",
               "Components": [],
               "SetValues": [],
-              "Metadata": []
+              "Metadata": [],
+              "RuleSet": null
             }
           ],
           "SetValues": [],
-          "Metadata": []
+          "Metadata": [],
+          "RuleSet": null
         }
       ]
     },
@@ -179,7 +193,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.VendorAddress",
@@ -194,7 +209,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.BillingName",
@@ -209,7 +225,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.BillingAddress",
@@ -224,7 +241,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.BillingVATNo",
@@ -239,7 +257,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.ShippingAddress",
@@ -254,7 +273,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.PaymentAddress",
@@ -269,7 +289,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.VendorVATNo",
@@ -284,7 +305,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Date",
@@ -299,7 +321,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.DueDate",
@@ -314,7 +337,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.InvoiceNo",
@@ -329,7 +353,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.PONo",
@@ -344,7 +369,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.PaymentTerms",
@@ -359,7 +385,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.ShippingCharges",
@@ -374,7 +401,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.TaxAmount",
@@ -389,7 +417,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.NetAmount",
@@ -404,7 +433,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Total",
@@ -419,7 +449,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Discount",
@@ -434,7 +465,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Currency",
@@ -449,7 +481,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items",
@@ -471,7 +504,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.Description",
@@ -486,7 +520,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.ItemPONo",
@@ -501,7 +536,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.Qty",
@@ -516,7 +552,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.UnitPrice",
@@ -531,7 +568,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.Amount",
@@ -546,7 +584,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             },
             {
               "FieldId": "Semi-StructuredDocuments.Financial.Invoice.Items.PartNo",
@@ -561,7 +600,8 @@
                   "Key": "RequiresReference",
                   "Value": "true"
                 }
-              ]
+              ],
+              "RuleSet": null
             }
           ],
           "SetValues": [],
@@ -570,7 +610,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         }
       ]
     },
@@ -598,7 +639,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.2_BusinessName",
@@ -613,7 +655,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3a_Individual",
@@ -628,7 +671,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3b_CCorp",
@@ -643,7 +687,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3c_SCorp",
@@ -658,7 +703,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3d_Partnership",
@@ -673,7 +719,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3e_Trust-estate",
@@ -688,7 +735,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3f_LLC",
@@ -703,7 +751,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3f_LLCTaxClassification",
@@ -718,7 +767,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3g_Other",
@@ -733,7 +783,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.3g_OtherDetail",
@@ -748,7 +799,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.5_Address",
@@ -763,7 +815,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.6_CityStateZIP",
@@ -778,7 +831,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.7_AcctNumber",
@@ -793,7 +847,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.TIN_SSN",
@@ -808,7 +863,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.TIN_EIN",
@@ -823,7 +879,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.Certification_Signature",
@@ -838,7 +895,8 @@
               "Key": "RequiresReference",
               "Value": "false"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "StructuredDocuments.LendingForms.W-9.Certification_SignatureDate",
@@ -853,7 +911,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         }
       ]
     },
@@ -881,7 +940,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Documents.Other.Certificate-of-filing.Dated",
@@ -896,7 +956,8 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
         },
         {
           "FieldId": "Documents.Other.Certificate-of-filing.Effective",
@@ -911,7 +972,374 @@
               "Key": "RequiresReference",
               "Value": "true"
             }
-          ]
+          ],
+          "RuleSet": null
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "StructuredDocuments.Identification.idcard",
+      "Group": "Structured Documents",
+      "Category": "Identification",
+      "Name": "idcard",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "StructuredDocuments.Identification.idcard.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "StructuredDocuments.Identification.idcard.Name",
+          "FieldName": "Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.idcard.PersonalNumber",
+          "FieldName": "PersonalNumber",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fa6616"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.idcard.IssueDate",
+          "FieldName": "IssueDate",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8a97a0"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.idcard.Address",
+          "FieldName": "Address",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.idcard.Authority",
+          "FieldName": "Authority",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#e422cf"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "h"
+            }
+          ],
+          "RuleSet": null
+        }
+      ]
+    },
+    {
+      "DocumentTypeId": "StructuredDocuments.Identification.driverlicense",
+      "Group": "Structured Documents",
+      "Category": "Identification",
+      "Name": "driverlicense",
+      "OptionalUniqueIdentifier": "",
+      "TypeField": {
+        "FieldId": "StructuredDocuments.Identification.driverlicense.DocumentType",
+        "FieldName": "Document Type"
+      },
+      "Fields": [
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Name",
+          "FieldName": "Name",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#038a18"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "a"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Number",
+          "FieldName": "Number",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#fa6616"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "m"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Type",
+          "FieldName": "Type",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8a97a0"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "y"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.PersonalNumber",
+          "FieldName": "PersonalNumber",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#6eb84a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "e"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Address",
+          "FieldName": "Address",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#c746cf"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "r"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.RenewStartDate",
+          "FieldName": "RenewStartDate",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#1c85d9"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "w"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.RenewEndDate",
+          "FieldName": "RenewEndDate",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#3ddb77"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "q"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Condition",
+          "FieldName": "Condition",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#8ed360"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "c"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Code",
+          "FieldName": "Code",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#e2c27a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "g"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.OrganDonation",
+          "FieldName": "OrganDonation",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#b3154a"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "h"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.IssueDate",
+          "FieldName": "IssueDate",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#db7781"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "j"
+            }
+          ],
+          "RuleSet": null
+        },
+        {
+          "FieldId": "StructuredDocuments.Identification.driverlicense.Authority",
+          "FieldName": "Authority",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "Color",
+              "Value": "#27d8d9"
+            },
+            {
+              "Key": "Hotkey",
+              "Value": "k"
+            }
+          ],
+          "RuleSet": null
         }
       ]
     }
@@ -932,7 +1360,8 @@
     {
       "Name": "Structured Documents",
       "Categories": [
-        "Lending Forms"
+        "Lending Forms",
+        "Identification"
       ]
     }
   ],
