@@ -3,19 +3,19 @@
   "description": "Document Understanding Process with external integration ",
   "main": "Main-ActionCenter.xaml",
   "dependencies": {
-    "CustomDUActivities": "[1.0.112-dev.189]",
-    "UiPath.DocumentUnderstanding.ML.Activities": "[1.18.0]",
-    "UiPath.Excel.Activities": "[2.16.2]",
-    "UiPath.IntelligentOCR.Activities": "[6.6.0]",
-    "UiPath.System.Activities": "[22.10.4]",
-    "UiPath.Testing.Activities": "[22.10.3]",
-    "UiPath.UIAutomation.Activities": "[22.10.5]"
+    "CustomDUActivities": "[1.0.124-dev.115]",
+    "UiPath.DocumentUnderstanding.ML.Activities": "[1.21.0]",
+    "UiPath.Excel.Activities": "[2.20.1]",
+    "UiPath.IntelligentOCR.Activities": "[6.9.1]",
+    "UiPath.System.Activities": "[23.4.2]",
+    "UiPath.Testing.Activities": "[23.4.0]",
+    "UiPath.UIAutomation.Activities": "[23.4.5]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.4.0",
-  "projectVersion": "1.0.2",
+  "projectVersion": "1.0.3",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -23,6 +23,7 @@
     "isAttended": false,
     "requiresUserInteraction": true,
     "supportsPersistence": true,
+    "workflowSerialization": "DataContract",
     "excludedLoggedData": [
       "Private:*",
       "*password*"
@@ -184,6 +185,18 @@
     {
       "filePath": "UploadData\\UploadSampleInvoicesToQueue.xaml",
       "uniqueId": "b7bc85c2-70b4-4b33-833b-1f83a1be4e84",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Tests\\100_AzureExtraction\\IDCardTest.xaml",
+      "uniqueId": "d98acf2c-35a3-4b6c-97d0-990fe7609ad5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Tests\\100_AzureExtraction\\BizLicenseTest.xaml",
+      "uniqueId": "39ed3d34-6668-4189-9c80-be43ddffec6d",
       "input": [],
       "output": []
     }
