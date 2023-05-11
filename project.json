@@ -15,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "22.10.4.0",
-  "projectVersion": "1.0.3",
+  "projectVersion": "1.0.15",
   "runtimeOptions": {
     "autoDispose": false,
     "netFrameworkLazyLoading": false,
@@ -197,6 +197,18 @@
     {
       "filePath": "Tests\\100_AzureExtraction\\BizLicenseTest.xaml",
       "uniqueId": "39ed3d34-6668-4189-9c80-be43ddffec6d",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Apps\\GetDriverLicense.xaml",
+      "uniqueId": "adc3f765-3b51-4381-ae43-9f7b5b228fcb",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Apps\\GetBizLicense.xaml",
+      "uniqueId": "3f1d11d9-77d9-42d4-aca7-2047ea4e03d9",
       "input": [],
       "output": []
     }
